@@ -1,0 +1,46 @@
+﻿@model Assessment.Core.ViewModels.JobApplicationViewModel;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Job Application</h2>
+<lable>Please complete the form below to apply for a position with us.</lable>
+
+@using (Html.BeginForm("CreateNewJobApplication", "NewJobApplication", FormMethod.Post))
+{
+    <br />
+    <div class="row">
+        @Html.TextBoxFor(j => j.Result[0].JobTitle, new { @class = "form-control", @placeholder = "Job Title" })
+    </div>
+    <br />
+    <div class="row">
+        <partial name="_AdBanner" />
+    </div>
+    <br />
+    <div class="row">
+        @Html.TextAreaFor(j => j.Result[0].CompanyInfo, new { @class = "form-control", @placeholder = "Company Info" })
+    </div>
+    <br />
+    <div class="row">
+        @Html.TextAreaFor(j => j.Result[0].JobDescription, new { @class = "form-control", @placeholder = "Job Description" })
+    </div>
+    <br />
+    <div class="row">
+        @Html.TextAreaFor(j => j.Result[0].CandidateProfile, new { @class = "form-control", @placeholder = "Candidate Profile" })
+    </div>
+    <br />
+    <div class="row">
+        @Html.TextAreaFor(j => j.Result[0].ApplicationInfo, new { @class = "form-control", @placeholder = "Application Info" })
+    </div>
+    <br />
+    <div class="row float-right">
+        <input type="submit" value="Apply" class="btn btn-primary" />
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+}
+
+

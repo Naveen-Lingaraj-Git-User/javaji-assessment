@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Infrastructure\Assessment.Infrastructure.Persistence\Assessment.Infrastructure.Persistence.csproj" />
+    <ProjectReference Include="..\Assessment.Core.Abstractions\Assessment.Core.Abstractions.csproj" />
+    <ProjectReference Include="..\Assessment.Core.Interfaces\Assessment.Core.Interfaces.csproj" />
+    <ProjectReference Include="..\Assessment.Core.ViewModels\Assessment.Core.ViewModels.csproj" />
+  </ItemGroup>
+
+</Project>

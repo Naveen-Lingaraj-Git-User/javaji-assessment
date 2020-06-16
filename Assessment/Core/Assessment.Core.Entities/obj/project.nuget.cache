@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "koUrxyaeqMBzt9HNOKA620lLq/LnLgD9UH9RX5mT1dg5G1hg+cDp8ywRR1/zipxykk/S2F9ObuBdWSgIvMsyFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Entities\\Assessment.Core.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\navee\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\navee\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

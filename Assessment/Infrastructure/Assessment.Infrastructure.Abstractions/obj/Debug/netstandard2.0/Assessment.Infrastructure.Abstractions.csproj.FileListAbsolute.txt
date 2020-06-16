@@ -1,0 +1,5 @@
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Infrastructure\Assessment.Infrastructure.Abstractions\bin\Debug\netstandard2.0\Assessment.Infrastructure.Abstractions.deps.json
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Infrastructure\Assessment.Infrastructure.Abstractions\bin\Debug\netstandard2.0\Assessment.Infrastructure.Abstractions.dll
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Infrastructure\Assessment.Infrastructure.Abstractions\obj\Debug\netstandard2.0\Assessment.Infrastructure.Abstractions.csprojAssemblyReference.cache
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Infrastructure\Assessment.Infrastructure.Abstractions\obj\Debug\netstandard2.0\Assessment.Infrastructure.Abstractions.AssemblyInfoInputs.cache
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Infrastructure\Assessment.Infrastructure.Abstractions\obj\Debug\netstandard2.0\Assessment.Infrastructure.Abstractions.AssemblyInfo.cs

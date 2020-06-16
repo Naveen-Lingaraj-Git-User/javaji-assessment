@@ -1,0 +1,14 @@
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\bin\Debug\netstandard2.0\Assessment.Core.ViewModels.deps.json
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\bin\Debug\netstandard2.0\Assessment.Core.ViewModels.dll
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\bin\Debug\netstandard2.0\Assessment.Core.ViewModels.pdb
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\bin\Debug\netstandard2.0\Assessment.Core.DTOs.dll
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\bin\Debug\netstandard2.0\Assessment.Core.Entities.dll
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\bin\Debug\netstandard2.0\Assessment.Core.DTOs.pdb
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\bin\Debug\netstandard2.0\Assessment.Core.Entities.pdb
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\obj\Debug\netstandard2.0\Assessment.Core.ViewModels.csprojAssemblyReference.cache
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\obj\Debug\netstandard2.0\Assessment.Core.ViewModels.AssemblyInfoInputs.cache
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\obj\Debug\netstandard2.0\Assessment.Core.ViewModels.AssemblyInfo.cs
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\obj\Debug\netstandard2.0\Assessment.Core.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\obj\Debug\netstandard2.0\Assessment.Core.ViewModels.csproj.CopyComplete
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\obj\Debug\netstandard2.0\Assessment.Core.ViewModels.dll
+C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.ViewModels\obj\Debug\netstandard2.0\Assessment.Core.ViewModels.pdb

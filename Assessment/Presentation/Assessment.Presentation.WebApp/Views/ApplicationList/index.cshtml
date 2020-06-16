@@ -1,0 +1,47 @@
+﻿@model Assessment.Core.ViewModels.JobApplicationViewModel;
+
+@{
+    ViewData["Title"] = "index";
+}
+
+<h1>Application History</h1>
+
+<div class="table-responsive">
+    <table class="table table-bordered table-condensed table-striped table-hover sortable">
+        @if (Model.Result.Count() == 0)
+        {
+            <tr>
+                <td colspan="10">No Record's found.</td>
+            </tr>
+
+        }
+        else
+        {
+            <thead>
+                <tr class="danger">
+                    <th data-defaultsign="_19">Application Id</th>
+                    <th data-defaultsign="AZ">Application Reference Id</th>
+                    <th data-defaultsign="AZ">JobTitle</th>
+                    <th data-defaultsign="month">CompanyInfo</th>
+                    <th data-firstsort="desc">JobDescription</th>
+                    <th data-defaultsign="AZ">CandidateProfile</th>
+                    <th data-defaultsort="disabled">ApplicationInfo</th>
+                </tr>
+            </thead>
+
+            foreach (var item in Model.Result)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.ReferenceId</td>
+                    <td>@item.JobTitle</td>
+                    <td>@item.CompanyInfo</td>
+                    <td>@item.JobDescription</td>
+                    <td>@item.CandidateProfile</td>
+                    <td>@item.ApplicationInfo</td>
+                </tr>
+
+            }
+        }
+    </table>
+</div>
