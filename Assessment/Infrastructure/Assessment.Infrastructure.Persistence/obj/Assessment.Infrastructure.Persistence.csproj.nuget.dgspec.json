@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj": {}
+    "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Entities\\Assessment.Core.Entities.csproj": {
+    "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Entities\\Assessment.Core.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Entities\\Assessment.Core.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Entities\\Assessment.Core.Entities.csproj",
         "projectName": "Assessment.Core.Entities",
-        "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Entities\\Assessment.Core.Entities.csproj",
+        "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Entities\\Assessment.Core.Entities.csproj",
         "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Entities\\obj\\",
+        "outputPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj": {
+    "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj",
         "projectName": "Assessment.Infrastructure.Persistence",
-        "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj",
+        "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj",
         "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,8 +86,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Entities\\Assessment.Core.Entities.csproj": {
-                "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Entities\\Assessment.Core.Entities.csproj"
+              "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Entities\\Assessment.Core.Entities.csproj": {
+                "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Entities\\Assessment.Core.Entities.csproj"
               }
             }
           }

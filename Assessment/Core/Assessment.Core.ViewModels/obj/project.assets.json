@@ -1079,11 +1079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj",
+      "projectUniqueName": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj",
       "projectName": "Assessment.Core.ViewModels",
-      "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj",
+      "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj",
       "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.ViewModels\\obj\\",
+      "outputPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1099,8 +1099,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.DTOs\\Assessment.Core.DTOs.csproj": {
-              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.DTOs\\Assessment.Core.DTOs.csproj"
+            "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.DTOs\\Assessment.Core.DTOs.csproj": {
+              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.DTOs\\Assessment.Core.DTOs.csproj"
             }
           }
         }

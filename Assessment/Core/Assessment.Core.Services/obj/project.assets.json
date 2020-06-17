@@ -8860,11 +8860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Services\\Assessment.Core.Services.csproj",
+      "projectUniqueName": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Services\\Assessment.Core.Services.csproj",
       "projectName": "Assessment.Core.Services",
-      "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Services\\Assessment.Core.Services.csproj",
+      "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Services\\Assessment.Core.Services.csproj",
       "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Services\\obj\\",
+      "outputPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8880,17 +8880,17 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Abstractions\\Assessment.Core.Abstractions.csproj": {
-              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Abstractions\\Assessment.Core.Abstractions.csproj"
+            "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Abstractions\\Assessment.Core.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Abstractions\\Assessment.Core.Abstractions.csproj"
             },
-            "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Interfaces\\Assessment.Core.Interfaces.csproj": {
-              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Interfaces\\Assessment.Core.Interfaces.csproj"
+            "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Interfaces\\Assessment.Core.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Interfaces\\Assessment.Core.Interfaces.csproj"
             },
-            "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj"
+            "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj"
             },
-            "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj": {
-              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj"
+            "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj": {
+              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj"
             }
           }
         }

@@ -9969,11 +9969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Presentation\\Assessment.Presentation.WebApp\\Assessment.Presentation.WebApp.csproj",
+      "projectUniqueName": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Presentation\\Assessment.Presentation.WebApp\\Assessment.Presentation.WebApp.csproj",
       "projectName": "Assessment.Presentation.WebApp",
-      "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Presentation\\Assessment.Presentation.WebApp\\Assessment.Presentation.WebApp.csproj",
+      "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Presentation\\Assessment.Presentation.WebApp\\Assessment.Presentation.WebApp.csproj",
       "packagesPath": "C:\\Users\\navee\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Presentation\\Assessment.Presentation.WebApp\\obj\\",
+      "outputPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Presentation\\Assessment.Presentation.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\navee\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9989,14 +9989,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Abstractions\\Assessment.Core.Abstractions.csproj": {
-              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Abstractions\\Assessment.Core.Abstractions.csproj"
+            "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Abstractions\\Assessment.Core.Abstractions.csproj": {
+              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Abstractions\\Assessment.Core.Abstractions.csproj"
             },
-            "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Extensions\\Assessment.Core.Extensions.csproj": {
-              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Extensions\\Assessment.Core.Extensions.csproj"
+            "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Extensions\\Assessment.Core.Extensions.csproj": {
+              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Extensions\\Assessment.Core.Extensions.csproj"
             },
-            "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj": {
-              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj"
+            "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj": {
+              "projectPath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.ViewModels\\Assessment.Core.ViewModels.csproj"
             }
           }
         }

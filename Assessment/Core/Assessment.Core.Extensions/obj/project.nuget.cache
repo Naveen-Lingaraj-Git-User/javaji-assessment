@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4MPR2h0Ln4Mo/vG0Nh11UPb+PS5VXxXvNd1Q77C8+c2qe60XB9stShYVMrpDOpOZysG0L0yLvIBcB71FEIWJWw==",
+  "dgSpecHash": "J/Km3dGRtfR4smbdEMxJ0FdmwNwV7htWdUokGwytLyaLXfB6yBIioDhk/uMqdiZVNplPDJBj7nB2I+DnETMseg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.Extensions\\Assessment.Core.Extensions.csproj",
+  "projectFilePath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.Extensions\\Assessment.Core.Extensions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\navee\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\navee\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

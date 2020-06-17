@@ -12,3 +12,17 @@ C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.Abstracti
 C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.Abstractions\bin\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.pdb
 C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.Abstractions\bin\Debug\netstandard2.0\Assessment.Core.Entities.pdb
 C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.Abstractions\obj\Debug\netstandard2.0\Assessment.Core.Abstractions.csproj.CopyComplete
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\bin\Debug\netstandard2.0\Assessment.Core.Abstractions.deps.json
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\bin\Debug\netstandard2.0\Assessment.Core.Abstractions.dll
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\bin\Debug\netstandard2.0\Assessment.Core.Abstractions.pdb
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\bin\Debug\netstandard2.0\Assessment.Core.Entities.dll
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\bin\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.dll
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\bin\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.pdb
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\bin\Debug\netstandard2.0\Assessment.Core.Entities.pdb
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\obj\Debug\netstandard2.0\Assessment.Core.Abstractions.csprojAssemblyReference.cache
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\obj\Debug\netstandard2.0\Assessment.Core.Abstractions.AssemblyInfoInputs.cache
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\obj\Debug\netstandard2.0\Assessment.Core.Abstractions.AssemblyInfo.cs
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\obj\Debug\netstandard2.0\Assessment.Core.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\obj\Debug\netstandard2.0\Assessment.Core.Abstractions.csproj.CopyComplete
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\obj\Debug\netstandard2.0\Assessment.Core.Abstractions.dll
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.Abstractions\obj\Debug\netstandard2.0\Assessment.Core.Abstractions.pdb

@@ -10,3 +10,15 @@ C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Infrastructure\Assessment.Infr
 C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\obj\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.csproj.CopyComplete
 C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\obj\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.dll
 C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\obj\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.pdb
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\bin\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.deps.json
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\bin\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.dll
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\bin\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.pdb
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\bin\Debug\netstandard2.0\Assessment.Core.Entities.dll
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\bin\Debug\netstandard2.0\Assessment.Core.Entities.pdb
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\obj\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.csprojAssemblyReference.cache
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\obj\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.AssemblyInfoInputs.cache
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\obj\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.AssemblyInfo.cs
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\obj\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\obj\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.csproj.CopyComplete
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\obj\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.dll
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Infrastructure\Assessment.Infrastructure.Persistence\obj\Debug\netstandard2.0\Assessment.Infrastructure.Persistence.pdb

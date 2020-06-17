@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pM0m0Lf9RDlty4wl0VXjvfSFABJojsnc9ce6IM0RI+YiSWSiatRkJn5GuHudgAIIjqCfRg/3iHVoeDvlhmMsXw==",
+  "dgSpecHash": "XZirxAFBRbnjaVmXWrAfEP6q9sgClS1g7DccIjWC/AGIzQHN1O4+ntX6TSoRC/HpKD0MXwMR1X1D4RWTT0zArw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Infrastructure\\Assessment.Infrastructure.Persistence\\Assessment.Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\navee\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\navee\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

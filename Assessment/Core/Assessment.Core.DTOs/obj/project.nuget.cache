@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9mze98qHl6060nSWnFuxClWMQMCvT+KPtEHJb+1S6N3IRts/77z5P0hw7E/wpNjM4QLFeWE2e9m+ews2dWFbfw==",
+  "dgSpecHash": "BP9SjxLx30spQo2VLuFqKritTF4SCNTBAhW4UksRHqgzPbDAY/SU+vdH4wwfxGodYH0xdEjNSZdnaz0lXQDstQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\navee\\OneDrive\\Desktop\\Javaji\\Assessment\\Core\\Assessment.Core.DTOs\\Assessment.Core.DTOs.csproj",
+  "projectFilePath": "C:\\Users\\navee\\OneDrive\\Desktop\\git\\javaji\\javaji-assessment\\Assessment\\Core\\Assessment.Core.DTOs\\Assessment.Core.DTOs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\navee\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\navee\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

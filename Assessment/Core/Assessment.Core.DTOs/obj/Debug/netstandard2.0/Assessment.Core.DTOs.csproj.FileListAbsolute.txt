@@ -10,3 +10,15 @@ C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.DTOs\obj\
 C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.DTOs\obj\Debug\netstandard2.0\Assessment.Core.DTOs.csproj.CopyComplete
 C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.DTOs\obj\Debug\netstandard2.0\Assessment.Core.DTOs.dll
 C:\Users\navee\OneDrive\Desktop\Javaji\Assessment\Core\Assessment.Core.DTOs\obj\Debug\netstandard2.0\Assessment.Core.DTOs.pdb
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.DTOs\bin\Debug\netstandard2.0\Assessment.Core.DTOs.deps.json
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.DTOs\bin\Debug\netstandard2.0\Assessment.Core.DTOs.dll
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.DTOs\bin\Debug\netstandard2.0\Assessment.Core.DTOs.pdb
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.DTOs\bin\Debug\netstandard2.0\Assessment.Core.Entities.dll
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.DTOs\bin\Debug\netstandard2.0\Assessment.Core.Entities.pdb
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.DTOs\obj\Debug\netstandard2.0\Assessment.Core.DTOs.csprojAssemblyReference.cache
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.DTOs\obj\Debug\netstandard2.0\Assessment.Core.DTOs.AssemblyInfoInputs.cache
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.DTOs\obj\Debug\netstandard2.0\Assessment.Core.DTOs.AssemblyInfo.cs
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.DTOs\obj\Debug\netstandard2.0\Assessment.Core.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.DTOs\obj\Debug\netstandard2.0\Assessment.Core.DTOs.csproj.CopyComplete
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.DTOs\obj\Debug\netstandard2.0\Assessment.Core.DTOs.dll
+C:\Users\navee\OneDrive\Desktop\git\javaji\javaji-assessment\Assessment\Core\Assessment.Core.DTOs\obj\Debug\netstandard2.0\Assessment.Core.DTOs.pdb
