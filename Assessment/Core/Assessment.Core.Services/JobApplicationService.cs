@@ -13,10 +13,6 @@ namespace Assessment.Core.Services
 {
     public class JobApplicationService : BaseServiceProvider, IJobApplicationService
     {
-        private void init()
-        {
-            Using<AssessmentDbContext>().Database.EnsureCreated();
-        }
         public Task<int> CreateJobApplication(JobApplicationViewModel jobApplicationViewModel)
         {
             Using<AssessmentDbContext>().JobApplications.Add(Using<IMapper>().Map<JobApplication>(jobApplicationViewModel.Result[0]));
